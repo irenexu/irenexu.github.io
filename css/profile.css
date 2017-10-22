@@ -44,3 +44,7 @@ strong {
     -ms-animation: progress 2s 1 forwards;
     animation: progress 2s 1 forwards;
 }
+
+.navbar {
+  background: #E16879;
+}
